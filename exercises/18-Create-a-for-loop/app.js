@@ -2,6 +2,11 @@
 
 // Declare and write your function here:
 
+function standardsMaker () {
+    for (var counter = 0; counter < 300; counter++) {
+        console.log(`I will write questions if I'm stuck ${counter} times`);
+    }
+}
 
 // Calling the function:
 standardsMaker();
