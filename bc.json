@@ -292,7 +292,7 @@
         {
             "slug": "24-Bottles-of-milk",
             "title": "24-Bottles-of-milk",
-            "done": false,
+            "done": true,
             "path": "exercises/24-Bottles-of-milk",
             "translations": [
                 "es",
